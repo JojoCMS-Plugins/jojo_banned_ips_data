@@ -1,0 +1,1 @@
+This plugin is a list of IP addresses that the authors of the plugin wish to ban. Feel free to modify this list for your own purposes, it was designed this way so you don't need to edit the jojo_banned_ips plugin directly.

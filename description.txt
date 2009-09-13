@@ -1,0 +1,1 @@
+A list of known bad IPs for the jojo_banned_ips plugin.
